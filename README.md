@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**zipped36/zipped36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome Aliens 👋, I'm just another zipped Alien!
 
 - 🔭 I’m currently working on React Hooks (Custom Hooks)
 - 🌱 I’m currently learning NextJS
