@@ -1,4 +1,4 @@
-Welcome Aliens 👋, I'm just another zipped Alien!
+Welcome Aliens 👋!
 
 - 🔭 I’m currently working on React Hooks (Custom Hooks)
 - 🌱 I’m currently learning NextJS
